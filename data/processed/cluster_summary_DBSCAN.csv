@@ -1,0 +1,7 @@
+,PCA_Development,PCA_Development,Adj_PopDensity,Adj_PopDensity,AirTransportPerCapita,AirTransportPerCapita,Population_65_Plus_Pct,Population_65_Plus_Pct
+,mean,std,mean,std,mean,std,mean,std
+Cluster_DBSCAN,,,,,,,,
+-1,0.794,1.571,120773.326,349070.757,28.639,46.019,11.254,7.978
+0,-1.447,0.505,4226.599,4170.466,0.154,0.307,3.404,0.988
+1,0.738,0.495,6708.819,8025.735,0.824,1.253,6.712,2.563
+2,1.73,0.388,9084.752,10781.197,1.466,1.428,18.147,2.731
